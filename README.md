@@ -2,7 +2,7 @@
 
 This is a test of a Drawer component writen in Next.js and HeroUi
 
-[Try it here]([https://githubbox.com/heroui-inc/heroui/next-app-template](https://iramlg-drawer-1424eb531479.herokuapp.com/))
+[Try it here](https://iramlg-drawer-1424eb531479.herokuapp.com/))
 
 ## Technologies Used
 
